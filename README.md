@@ -15,4 +15,3 @@ The below algorithms are explaineed with code (from scratch) in this repository 
 
 More information on the dataset can be found [here](https://grouplens.org/datasets/movielens/).
 
-If you require additional clarification or have any questions, please don't hesitate to contact me - Email: harikrishnankr16@gmail.com
