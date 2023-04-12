@@ -1,4 +1,4 @@
-# Recommender-systems
+# Recommender Systems:
 Repository with collection of various recommender system algorithms that are widely used in industry.
 
 The below algorithms are explaineed with code (from scratch) in this repository using Movie Lens Dataset:
